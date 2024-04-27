@@ -31,6 +31,3 @@ Welcome to Quick Food Restaurant Management System! This system is designed to p
   - MongoDB for storing application data.
   - Stripe for secure payment processing.
 
-### Getting Started
-
-1. **Clone the Repository**
